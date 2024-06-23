@@ -16,4 +16,4 @@ This program simulates a slot machine game where players can deposit money, plac
 
 **Winnings Calculation:** Determines winnings based on matching symbols across selected lines and adds or deducts from their balance.
 
-**Game Loop/Play Again:** Continues until the player chooses not to play again ('n' or runs out of money in their balance.
+**Game Loop/Play Again:** Continues until the player chooses not to play again ('n' to not play again or 'y' to play again) or runs out of money in their balance.
